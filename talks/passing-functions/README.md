@@ -49,3 +49,4 @@ SiloRef[List[Int]]
 - "A note on Distributed Computing"
   - Jim Waldo
 - [sips/sportes.html](http://docs.scala-lang.org/sips/pending/spores.html)
+- `function-passing@googlegroups.com`
