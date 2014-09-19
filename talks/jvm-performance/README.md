@@ -48,3 +48,8 @@
 - Sometimes the JVM will alloc objects on the stack, as long as it doesn't escape the stack
 - There are also lots of calls that are straight to assembly.
   - `PrintAssembly` and `PrintInlining` flags to set
+
+## Strings
+
+- Using `.getBytes("UTF-8")` looks up in a hash map that has lock contention.
+  - Anything better to do?
