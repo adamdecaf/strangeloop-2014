@@ -13,7 +13,7 @@ __2000 CAP___
 - CP Systems
   - Strong consistency up to a threshold of failure
   - Based on consistency protocols
-    - Paxos, Zab, Raft, Viewstamped Replication
+    - Paxos (1989), Zab (2008), Raft (2013), Viewstamped Replication (1988)
 - AP Systems
   - Used by most distributed data systems
     - mongo, cassandra, riak, couch
