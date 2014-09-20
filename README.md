@@ -4,7 +4,7 @@ https://thestrangeloop.com
 
 ## Slides
 
-* [TBA]
+- [StrangeLoop 2014 Slides](https://github.com/strangeloop/StrangeLoop2014)
 
 ## Talks
 
