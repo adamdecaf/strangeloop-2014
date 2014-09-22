@@ -6,6 +6,10 @@ https://thestrangeloop.com
 
 - [StrangeLoop 2014 Slides](https://github.com/strangeloop/StrangeLoop2014)
 
+## Videos
+
+- [StrangeLoop 2014 Videos](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw/videos)
+
 ## Talks
 
 > Talks with a `*` suffix are the talks attended.
